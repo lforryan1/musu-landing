@@ -32,7 +32,7 @@ body {
   padding: clamp(2rem, 8vw, 7rem);
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 
 .hero {
@@ -83,13 +83,15 @@ h1 {
 }
 
 .footer {
-  margin-top: 5rem;
+  margin-top: 15rem;
 }
 
 .instagram-link {
   display: inline-flex;
   align-items: center;
   gap: 0.55rem;
+  font-size: 0.9em;
+  line-height: 1;
   color: var(--text);
   text-decoration: none;
   border-bottom: 1px solid transparent;
@@ -103,8 +105,10 @@ h1 {
 }
 
 .instagram-icon {
-  width: 0.95rem;
-  height: 0.95rem;
+  width: 0.855rem;
+  height: 0.855rem;
+  display: block;
+  transform: translateY(0.02em);
   fill: none;
   stroke: currentColor;
   stroke-width: 1.7;
