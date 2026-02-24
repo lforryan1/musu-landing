@@ -57,7 +57,7 @@ h1 {
 }
 
 .kana {
-  margin: 1.1rem 0 0.3rem;
+  margin: 2rem 0 0;
   font-size: clamp(1.65rem, 3.15vw, 2.1rem);
   font-family: "Spectral", Georgia, serif;
   font-weight: 200;
@@ -74,12 +74,12 @@ h1 {
 }
 
 .line {
-  margin: 0.7rem 0;
+  margin: 0.4rem 0;
   font-size: clamp(0.675rem, 1.125vw, 0.75rem);
 }
 
 .line + .line {
-  margin-top: 0.45rem;
+  margin-top: 0.25rem;
 }
 
 .footer {
