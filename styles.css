@@ -42,7 +42,7 @@ body {
 
 .brand-mark {
   margin: 0 0 2rem;
-  letter-spacing: 0.14em;
+  letter-spacing: 0.18em;
   font-size: 0.75rem;
   text-transform: uppercase;
 }
@@ -53,7 +53,7 @@ h1 {
   font-family: "Spectral", Georgia, serif;
   font-weight: 400;
   line-height: 1.08;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.25em;
 }
 
 .kana {
