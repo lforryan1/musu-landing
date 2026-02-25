@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "musu-shopify-theme/config/settings_data.json": "jsonc",
+    "musu-shopify-theme/templates/*.json": "jsonc",
+    "musu-shopify-theme/templates/customers/*.json": "jsonc",
+    "musu-shopify-theme/sections/*.json": "jsonc",
+    "musu-shopify-theme/locales/*.json": "jsonc",
+    "musu-shopify-theme/locales/*.schema.json": "jsonc"
+  }
+}
